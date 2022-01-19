@@ -5,10 +5,12 @@ This app displays enriching quotes by famous personalities.
 
 This is what this app does:-
 
--Displays new quotes whenever "New Quote" button is clicked.
--Changes color after every button click.
+- Displays new quotes whenever "New Quote" button is clicked.
+- Changes color after every button click.
 
 Working:-
 
--Fetch data from JSON server, store that data in state.
--Display the data by selecting a quote randomly from data stored in state.
+- Fetch data from JSON server, store that data in state.
+- Display the data by selecting a quote randomly from data stored in state.
+
+You can view the app at:- https://uditkun.github.io/random-quote-machine/
