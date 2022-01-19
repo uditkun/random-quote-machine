@@ -70,6 +70,7 @@ button {
   background-color: rgba(82, 55, 245, 0.87);
   border-radius: 5px;
   font-size: 15px;
+  cursor: pointer;
 }
 
 .footer {
